@@ -1,0 +1,19 @@
+# Ignore IntelliJ IDEA project files
+
+
+.DS_Store
+Thumbs.db
+
+.idea/
+idea/*
+git/*
+.git/*
+cifar10/*
+.cifar10/
+cifar10/cifar-10-batches-py
+.cifar10/cifar-10-batches-py
+file.txt
+
+*.log
+*.zip
+*.csv
